@@ -55,6 +55,9 @@
   items:  
     - name: Key concepts
       href: concept-key-concepts.md
+    - name: OT threat monitoring in enterprise SOCs
+      displayName: SOC, SCADA, OT, Microsoft Sentinel
+      href: concept-sentinel-integration.md 
     - name: Supported protocols
       displayName: protocol, Horizon, horizon, SCADA, OT, Industrial IoT, proprietary
       href: concept-supported-protocols.md    
@@ -214,10 +217,6 @@
   items:
   - name: Work with Defender for IoT APIs
     href: references-work-with-defender-for-iot-apis.md
-  - name: Horizon API
-    href: references-horizon-api.md
-  - name: Horizon SDK
-    href: references-horizon-sdk.md
   - name: Work with Defender for IoT CLI commands
     href: references-work-with-defender-for-iot-cli-commands.md
   - name: Manage proprietary protocols (Horizon)
